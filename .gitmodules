@@ -22,3 +22,6 @@
 [submodule "P9-Capstone-SelfDrivingCar"]
 	path = P9-Capstone-SelfDrivingCar
 	url = https://github.com/PraveenKumar-Rajendran/CarND-Capstone
+[submodule "P2-AdvancedLaneLines"]
+	path = P2-AdvancedLaneLines
+	url = https://github.com/PraveenKumar-Rajendran/CarND-Advanced-Lane-Lines
