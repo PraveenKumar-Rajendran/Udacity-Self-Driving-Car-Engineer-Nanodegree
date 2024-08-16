@@ -1,0 +1,24 @@
+[submodule "P1-LaneLines"]
+	path = P1-LaneLines
+	url = https://github.com/PraveenKumar-Rajendran/CarND-LaneLines-P1
+[submodule "P3-TrafficSignClassifier"]
+	path = P3-TrafficSignClassifier
+	url = https://github.com/PraveenKumar-Rajendran/CarND-Traffic-Sign-Classifier-Project
+[submodule "P4-BehavioralCloning"]
+	path = P4-BehavioralCloning
+	url = https://github.com/PraveenKumar-Rajendran/CarND-Behavioral-Cloning
+[submodule "P5-ExtendedKalmanFilter"]
+	path = P5-ExtendedKalmanFilter
+	url = https://github.com/PraveenKumar-Rajendran/CarND-Extended-Kalman-Filter-Project
+[submodule "P6-KidnappedVehicle"]
+	path = P6-KidnappedVehicle
+	url = https://github.com/PraveenKumar-Rajendran/CarND-Kidnapped-Vehicle-Project
+[submodule "P7-PathPlanning"]
+	path = P7-PathPlanning
+	url = https://github.com/PraveenKumar-Rajendran/CarND-Path-Planning-Project
+[submodule "P8-PIDControl"]
+	path = P8-PIDControl
+	url = https://github.com/PraveenKumar-Rajendran/CarND-PID-Control-Project
+[submodule "P9-Capstone-SelfDrivingCar"]
+	path = P9-Capstone-SelfDrivingCar
+	url = https://github.com/PraveenKumar-Rajendran/CarND-Capstone
